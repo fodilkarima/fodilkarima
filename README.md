@@ -25,9 +25,9 @@ Data Analyst formée à l'analyse de données, à la business intelligence, aux 
 - prise en compte du RGPD.
 ---
 
-# Projets
+#### Projets
 
-## Projets phares
+##### Projets phares
 
 ### 1. [Détection de faux billets — Machine Learning](projets/11-detection-faux-billets-machine-learning/)
 **Objectif :** automatiser la détection de billets contrefaits.
