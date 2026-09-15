@@ -1,4 +1,4 @@
-
+<img src='./oc-logo.jpeg' width=200x />
 ## Hi there 👋
 
 <!--
