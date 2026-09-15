@@ -57,3 +57,8 @@ L'analyse permet d'identifier que le problème principal n'est pas uniquement l'
 
 `Analyse métier` `KPI` `Data visualisation` `Interprétation` `Recommandations`
 
+## 📁Livrables
+
+- 📓 [Consulter le notebook Python](./detection_faux_billets.ipynb)
+- 📊 [Consulter la présentation du projet](./presentation_faux_billets.pdf)
+
