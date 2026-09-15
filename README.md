@@ -29,7 +29,7 @@ Data Analyst formée à l'analyse de données, à la business intelligence, aux 
 
 ##### Projets phares
 
-### 1. [Détection de faux billets — Machine Learning](projets/11-detection-faux-billets-machine-learning/)
+### 1. [Détection de faux billets — Machine Learning](11-detection-faux-billets-machine-learning/)
 **Objectif :** automatiser la détection de billets contrefaits.
 
 **Compétences :** Python · Régression logistique · Random Forest · KNN · K-means · ROC-AUC · Pipeline
