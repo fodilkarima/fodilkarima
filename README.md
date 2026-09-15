@@ -38,28 +38,28 @@ Data Analyst formée à l'analyse de données, à la business intelligence, aux 
 
 ---
 
-### 2. [Pilotage de projets avec Power BI](projets/06-dashboard-power-bi-sanitoral/)
+### 2. [Pilotage de projets avec Power BI](06-dashboard-power-bi-sanitoral/)
 **Objectif :** piloter délais, budgets et livrables d'un portefeuille de projets IT & Marketing.
 
 **Compétences :** Power BI · Power Query · DAX · Modèle en étoile · Dashboard · Data storytelling
 
 ---
 
-### 3. [Étude de marché internationale](projets/10-etude-marche-international-python/)
+### 3. [Étude de marché internationale](10-etude-marche-international-python/)
 **Objectif :** identifier les marchés les plus favorables à l'exportation.
 
 **Compétences :** Python · ACP · CAH · K-means · Standardisation · Segmentation
 
 ---
 
-### 4. [Analyse des ventes d'une librairie — Lapage](projets/08-analyse-ventes-lapage/)
+### 4. [Analyse des ventes d'une librairie — Lapage](08-analyse-ventes-lapage/)
 **Objectif :** comprendre les performances commerciales et les comportements clients.
 
 **Compétences :** Python · Statistiques · Chi-2 · Spearman · Kruskal-Wallis · Segmentation client
 
 ---
 
-### 5. [Pipeline de transformation avec dbt](projets/07-pipeline-dbt-openclassrooms/)
+### 5. [Pipeline de transformation avec dbt](07-pipeline-dbt-openclassrooms/)
 **Objectif :** analyser l'évolution de profils sociodémographiques via un pipeline ELT.
 
 **Compétences :** Snowflake · dbt · SQL · ELT · Data Quality · RGPD
@@ -70,12 +70,12 @@ Data Analyst formée à l'analyse de données, à la business intelligence, aux 
 
 | Projet | Problématique | Compétences |
 |---|---|---|
-| [Optimisation des données d'une boutique](projets/05-optimisation-boutique-python/) | Fiabiliser les données ERP/Web et améliorer le pilotage commercial | Python, nettoyage, jointures, statistiques |
-| [Accès à l'eau potable dans le monde](projets/09-acces-eau-potable-power-bi/) | Identifier les pays prioritaires pour une intervention | Power BI, analyse multicritère, dashboard |
-| [DATA Immo](projets/04-data-immo/) | Structurer des données immobilières pour produire des analyses fiables | SQL, nettoyage, modélisation, RGPD |
-| [Étude de l'alimentation mondiale — FAO](projets/03-alimentation-mondiale-fao/) | Étudier disponibilité alimentaire et sous-nutrition | Python, Pandas, Matplotlib |
-| [Base de données — Assurance habitation](projets/02-bdd-assurance-habitation/) | Structurer et interroger les données de contrats | SQL, schéma relationnel, jointures |
-| [Analyse de performance e-commerce](projets/01-performance-ecommerce/) | Comprendre CA, trafic, conversion et panier moyen | KPI, analyse descriptive, recommandations |
+| [Optimisation des données d'une boutique](05-optimisation-boutique-python/) | Fiabiliser les données ERP/Web et améliorer le pilotage commercial | Python, nettoyage, jointures, statistiques |
+| [Accès à l'eau potable dans le monde](09-acces-eau-potable-power-bi/) | Identifier les pays prioritaires pour une intervention | Power BI, analyse multicritère, dashboard |
+| [DATA Immo](04-data-immo/) | Structurer des données immobilières pour produire des analyses fiables | SQL, nettoyage, modélisation, RGPD |
+| [Étude de l'alimentation mondiale — FAO](03-alimentation-mondiale-fao/) | Étudier disponibilité alimentaire et sous-nutrition | Python, Pandas, Matplotlib |
+| [Base de données — Assurance habitation](02-bdd-assurance-habitation/) | Structurer et interroger les données de contrats | SQL, schéma relationnel, jointures |
+| [Analyse de performance e-commerce](01-performance-ecommerce/) | Comprendre CA, trafic, conversion et panier moyen | KPI, analyse descriptive, recommandations |
 
 ---
 
