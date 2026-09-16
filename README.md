@@ -162,7 +162,7 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 Pour chaque projet, je cherche à aller au-delà de la production d'indicateurs : l'objectif est de transformer les résultats en informations compréhensibles et exploitables pour la prise de décision.
 ---
 
-# Démarche projet
+# Démarche d'analyse
 
 Pour chaque réalisation, j'utilise une structure orientée recruteur/client :
 
@@ -195,7 +195,7 @@ La veille fait partie intégrante de ce portfolio. La section [`veille/`](veille
 - les enseignements tirés ;
 - l'impact de la veille sur mes choix techniques.
 
-## 🚀 Mon objectif
+## 🚀 Objectif professionnel
 
 Je souhaite aujourd'hui mettre ces compétences en pratique dans un environnement professionnel en tant que **Data Analyst**, en contribuant à des problématiques de pilotage, de performance et d'aide à la décision.
 
