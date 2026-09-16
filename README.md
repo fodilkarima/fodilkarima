@@ -47,9 +47,9 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 ### 🤖 Détection de faux billets — Machine Learning
 **Objectif :** automatiser la détection des billets contrefaits à partir de leurs caractéristiques dimensionnelles.
 
-**Résultat :** régression logistique retenue avec **99 % d'accuracy**.
+**Résultat clé :** régression logistique retenue avec **99 % d'accuracy**.
 
-`Python` `Scikit-learn` `Machine Learning` `Classification`
+`Python` `Machine Learning` `Régression logistique` `Random Forest` `ROC-AUC`
 
 ➡️ [Voir le projet](11-detection-faux-billets-machine-learning/)
 
@@ -65,22 +65,24 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 ---
 
 ### 📚 Analyse des ventes — Lapage
+
 **Objectif :** analyser les performances commerciales et les comportements clients d'une librairie en ligne.
 
-**Méthodes :** analyse descriptive, Chi-2, Spearman, Kruskal-Wallis et segmentation client.
+**Résultat clé :** identification de profils clients distincts et de relations significatives entre l'âge, les catégories achetées et les comportements d'achat.
 
-`Python` `Statistiques` `Data Visualisation`
+`Python` `Statistiques` `Chi-2` `Spearman` `Kruskal-Wallis`
 
 ➡️ [Voir le projet](./08-analyse-ventes-lapage/)
 
 ---
 
 ### 🌍 Étude de marché internationale
+
 **Objectif :** identifier les marchés présentant le meilleur potentiel pour une stratégie d'exportation.
 
-**Méthodes :** ACP, CAH et K-means.
+**Résultat clé :** segmentation des marchés internationaux et identification d'un groupe de pays prioritaires pour le développement commercial.
 
-`Python` `ACP` `Clustering` `K-means`
+`Python` `ACP` `CAH` `K-means` `Clustering`
 
 ➡️ [Voir le projet](10-etude-marche-international-python/)
 
@@ -116,6 +118,7 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 - pipelines de transformation et ELT ;
 - interprétation métier et recommandations ;
 - prise en compte du RGPD.
+
 ---
 
 #### Projets
