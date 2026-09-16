@@ -3,8 +3,6 @@
 
 ### Python • SQL • Power BI • Machine Learning • dbt • Snowflake
 
-Bienvenue sur mon portfolio.
-
 Je suis Data Analyst, spécialisée dans la transformation de données brutes en analyses fiables, visualisations claires et recommandations utiles à la prise de décision.
 
 À travers ces projets, je mets en pratique une démarche complète allant de la préparation et la qualité des données jusqu'à l'analyse statistique, la Business Intelligence et le Machine Learning.
@@ -16,7 +14,7 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 <p>
   Projets réalisés principalement dans le cadre de ma formation
   <strong>Data Analyst chez OpenClassrooms</strong>
-  <img src="./oc-logo.jpeg" width="55" alt="OpenClassrooms" style="vertical-align: middle;">
+  <img src="./oc-logo.jpeg" width="42" alt="OpenClassrooms" style="vertical-align: middle;">
 </p>
 
 ---
