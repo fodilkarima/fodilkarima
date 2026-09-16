@@ -13,6 +13,12 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 📧 [Me contacter](mailto:fodil.karima@hotmail.com)  
 💻 [GitHub](https://github.com/fodilkarima)
 
+<p>
+  Projets réalisés principalement dans le cadre de ma formation
+  <strong>Data Analyst chez OpenClassrooms</strong>
+  <img src="./oc-logo.jpeg" width="55" alt="OpenClassrooms" style="vertical-align: middle;">
+</p>
+
 ---
 
 ## 🛠️ Compétences
@@ -28,30 +34,30 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 | **Data Engineering** | Snowflake, dbt, ELT |
 | **Qualité des données** | Nettoyage, contrôles, RGPD, documentation |
 
+---
+
 ## 🎯 Ce que mon portfolio démontre
 
-À travers mes projets, je démontre ma capacité à intervenir sur l’ensemble du cycle de la donnée :
+À travers ces réalisations, je démontre ma capacité à intervenir sur les principales étapes d'un projet Data :
 
-- 🔎 **Comprendre le besoin métier** et le traduire en problématique analytique et en KPI.
-- 🧹 **Nettoyer et fiabiliser les données** : valeurs manquantes, anomalies, doublons, cohérence métier et traçabilité.
-- 🗄️ **Structurer les données** avec SQL, des modèles relationnels et des schémas en étoile.
-- ⚙️ **Transformer et automatiser** les traitements avec Python, Power Query, Snowflake et dbt.
-- 📊 **Explorer, analyser et visualiser** les données afin de faire ressortir tendances, comportements et anomalies.
-- 📐 **Utiliser les statistiques** pour valider les relations observées et appuyer les conclusions.
-- 🤖 **Construire et évaluer des modèles de Machine Learning** de classification, clustering et segmentation.
-- 📈 **Créer des tableaux de bord décisionnels** avec Power BI, DAX et Power Query.
-- 💡 **Transformer les résultats en recommandations métier** et en leviers d’aide à la décision.
-- 🔐 **Prendre en compte la qualité, la gouvernance et le RGPD** dans le traitement des données.
-- 🗣️ **Communiquer les résultats** de manière claire grâce aux notebooks, visualisations et présentations.
+- 🔎 **Comprendre un besoin métier** et le traduire en problématique analytique et en KPI pertinents.
+- 🧹 **Préparer et fiabiliser les données** en traitant valeurs manquantes, doublons, anomalies et incohérences métier.
+- 🗄️ **Structurer et transformer les données** avec SQL, Python, Power Query, Snowflake et dbt.
+- 📊 **Analyser et visualiser les données** afin d'identifier tendances, comportements et points de vigilance.
+- 🤖 **Utiliser les statistiques et le Machine Learning** pour tester, segmenter, classifier et comparer différents modèles.
+- 💡 **Transformer les résultats en aide à la décision** grâce à des recommandations métier claires et argumentées.
+
+---
 
 Vous y trouverez une sélection de projets réalisés dans le cadre de ma formation Data Analyst chez OpenClassrooms <img src='./oc-logo.jpeg' width=60x /> :
 
 ## ⭐ 5 Projets phares
 
 ### 🤖 Détection de faux billets — Machine Learning
+
 **Objectif :** automatiser la détection des billets contrefaits à partir de leurs caractéristiques dimensionnelles.
 
-**Résultat clé :** régression logistique retenue avec **99 % d'accuracy**.
+**Résultat clé :** régression logistique retenue avec **99 % d'exactitude**, **98 % de rappel des faux billets** et une **ROC-AUC de 0,9994**.
 
 `Python` `Machine Learning` `Régression logistique` `Random Forest` `ROC-AUC`
 
@@ -60,7 +66,10 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 ---
 
 ### 📊 Pilotage de projets — Power BI
-**Objectif :** créer un tableau de bord destiné au suivi des budgets, délais et livrables d'un portefeuille de projets.
+
+**Objectif :** concevoir un tableau de bord permettant de suivre les budgets, délais et livrables d'un portefeuille de projets.
+
+**Résultat clé :** création d'un outil de pilotage adapté à plusieurs niveaux de management permettant d'identifier rapidement les projets en retard ou présentant des écarts budgétaires.
 
 `Power BI` `Power Query` `DAX` `Modèle en étoile`
 
@@ -93,7 +102,10 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 ---
 
 ### ⚙️ Pipeline de données — dbt & Snowflake
-**Objectif :** construire un pipeline ELT permettant d'analyser l'évolution des profils sociodémographiques.
+
+**Objectif :** construire un pipeline ELT permettant d'analyser l'évolution des profils sociodémographiques d'étudiants sur plusieurs années.
+
+**Résultat clé :** mise en place d'un pipeline structuré en couches **Staging, Intermediate et Marts**, intégrant nettoyage, pseudonymisation et contrôles qualité.
 
 `Snowflake` `dbt` `SQL` `ELT` `Data Quality`
 
@@ -112,20 +124,31 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 
 ---
 
+## 🔎 Ma démarche
+
+**Besoin métier → Données → Préparation → Analyse / Modélisation → Visualisation → Recommandations**
+
+Pour chaque projet, mon objectif est d'aller au-delà de la simple production d'indicateurs afin de transformer les données en informations compréhensibles et exploitables pour la prise de décision.
+
+---
+
 ## 🔭 Veille métier et technologique
 
 Je réalise une veille régulière sur les évolutions du métier de Data Analyst et de son environnement technique.
 
-Mes principaux axes de veille :
+Mes principaux axes de veille portent sur :
 
-- évolution de **Power BI et DAX** ;
-- nouveautés **Python / Pandas** ;
-- pratiques de **Data Quality** ;
-- évolution des usages de **dbt et Snowflake** ;
-- applications de l'**IA dans l'analyse de données** ;
-- compétences recherchées dans les offres Data Analyst.
+- **Power BI, Power Query et DAX** ;
+- **Python, Pandas et les bibliothèques d'analyse** ;
+- **SQL et la modélisation des données** ;
+- **dbt et Snowflake** ;
+- les applications du **Machine Learning et de l'IA dans l'analyse de données** ;
+- les pratiques de **Data Quality et de gouvernance** ;
+- les compétences recherchées dans les offres de **Data Analyst**.
 
-Cette veille me permet d'adapter mes méthodes et d'identifier les outils les plus pertinents pour mes projets.
+Cette veille me permet d'actualiser mes pratiques, d'identifier les évolutions du métier et d'orienter mes choix techniques.
+
+---
 
 ## 🚀 Objectif professionnel
 
