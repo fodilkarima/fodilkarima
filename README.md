@@ -1,5 +1,5 @@
 <img src='./oc-logo.jpeg' width=200x />
-
+✅ Test mise à jour du site
 Bienvenue sur mon portfolio de projets en analyse de données 👋
 
 Vous y trouverez une sélection de projets réalisés dans le cadre de ma formation Data Analyst chez OpenClassrooms
