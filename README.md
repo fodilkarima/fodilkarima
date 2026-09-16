@@ -52,7 +52,7 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 `Python` `Scikit-learn` `Machine Learning` `Classification`
 
 ➡️ [Voir le projet](11-detection-faux-billets-machine-learning/)
-[Détection de faux billets — Machine Learning](11-detection-faux-billets-machine-learning/)
+
 ---
 
 ### 📊 Pilotage de projets — Power BI
