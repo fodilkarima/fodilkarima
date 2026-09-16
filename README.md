@@ -51,7 +51,7 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 
 `Python` `Scikit-learn` `Machine Learning` `Classification`
 
-➡️ [Voir le projet](/11-détection-faux-billets-apprentissage-automatique/)
+➡️ [Voir le projet](/11-détection-faux-billets-machine-learning/)
 
 ---
 
