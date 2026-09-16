@@ -159,18 +159,6 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 
 ---
 
-## Autres réalisations
-
-| Projet | Problématique | Compétences |
-|---|---|---|
-| [Optimisation des données d'une boutique](05-optimisation-boutique-python/) | Fiabiliser les données ERP/Web et améliorer le pilotage commercial | Python, nettoyage, jointures, statistiques |
-| [Accès à l'eau potable dans le monde](09-acces-eau-potable-power-bi/) | Identifier les pays prioritaires pour une intervention | Power BI, analyse multicritère, dashboard |
-| [DATA Immo](04-data-immo/) | Structurer des données immobilières pour produire des analyses fiables | SQL, nettoyage, modélisation, RGPD |
-| [Étude de l'alimentation mondiale — FAO](03-alimentation-mondiale-fao/) | Étudier disponibilité alimentaire et sous-nutrition | Python, Pandas, Matplotlib |
-| [Base de données — Assurance habitation](02-bdd-assurance-habitation/) | Structurer et interroger les données de contrats | SQL, schéma relationnel, jointures |
-| [Analyse de performance e-commerce](01-performance-ecommerce/) | Comprendre CA, trafic, conversion et panier moyen | KPI, analyse descriptive, recommandations |
-
----
 ## 🔎 Ma démarche d'analyse
 
 **Besoin métier → Collecte des données → Nettoyage → Analyse / Modélisation → Visualisation → Recommandations**
