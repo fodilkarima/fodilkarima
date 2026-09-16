@@ -1,8 +1,4 @@
 
-# 👋 Karima Fodil | Data Analyst
-
-### Python • SQL • Power BI • Machine Learning • dbt • Snowflake
-
 Je suis Data Analyst, spécialisée dans la transformation de données brutes en analyses fiables, visualisations claires et recommandations utiles à la prise de décision.
 
 À travers ces projets, je mets en pratique une démarche complète allant de la préparation et la qualité des données jusqu'à l'analyse statistique, la Business Intelligence et le Machine Learning.
@@ -14,7 +10,7 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 <p>
   Projets réalisés principalement dans le cadre de ma formation
   <strong>Data Analyst chez OpenClassrooms</strong>
-  <img src="./oc-logo.jpeg" width="42" alt="OpenClassrooms" style="vertical-align: middle;">
+  <img src="./oc-logo.jpeg" width="38" alt="OpenClassrooms">
 </p>
 
 ---
@@ -46,8 +42,6 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 - 💡 **Transformer les résultats en aide à la décision** grâce à des recommandations métier claires et argumentées.
 
 ---
-
-Vous y trouverez une sélection de projets réalisés dans le cadre de ma formation Data Analyst chez OpenClassrooms <img src='./oc-logo.jpeg' width=60x /> :
 
 ## ⭐ 5 Projets phares
 
@@ -113,7 +107,7 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 
 | Projet | Objectif | Technologies |
 |---|---|---|
-| [Performance e-commerce](./01-performance-ecommerce/) | Comprendre CA, trafic, conversion et panier moyen | KPI, Dataviz |
+| [Performance e-commerce](./01-performance-ecommerce/) | Comprendre CA, trafic, conversion et panier moyen | Analyse métier, KPI |
 | [BDD Assurance habitation](./02-bdd-assurance-habitation/) | Concevoir et interroger une BDD | SQL |
 | [Alimentation mondiale — FAO](./03-alimentation-mondiale-fao/) | Étudier disponibilité alimentaire et sous-nutrition | Python, Pandas |
 | [DATA Immo](04-data-immo/) | Structurer et analyser des données immobilières | SQL, RGPD |
@@ -136,13 +130,11 @@ Je réalise une veille régulière sur les évolutions du métier de Data Analys
 
 Mes principaux axes de veille portent sur :
 
+- **Python, Pandas et bibliothèques d’analyse** ;
 - **Power BI, Power Query et DAX** ;
-- **Python, Pandas et les bibliothèques d'analyse** ;
-- **SQL et la modélisation des données** ;
-- **dbt et Snowflake** ;
-- les applications du **Machine Learning et de l'IA dans l'analyse de données** ;
-- les pratiques de **Data Quality et de gouvernance** ;
-- les compétences recherchées dans les offres de **Data Analyst**.
+- **SQL, dbt, Snowflake et modélisation des données** ;
+- **Machine Learning, IA et Data Quality** ;
+- **évolution des compétences recherchées pour le métier de Data Analyst**.
 
 Cette veille me permet d'actualiser mes pratiques, d'identifier les évolutions du métier et d'orienter mes choix techniques.
 
