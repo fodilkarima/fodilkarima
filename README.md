@@ -47,7 +47,7 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 ### 🤖 Détection de faux billets — Machine Learning
 **Objectif :** automatiser la détection des billets contrefaits à partir de leurs caractéristiques dimensionnelles.
 
-**Résultat :** régression logistique retenue avec **99 % d'accuracy** et une **ROC-AUC de 0,9994**.
+**Résultat :** régression logistique retenue avec **99 % d'accuracy**.
 
 `Python` `Scikit-learn` `Machine Learning` `Classification`
 
