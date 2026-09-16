@@ -82,7 +82,7 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 
 `Python` `ACP` `Clustering` `K-means`
 
-➡️ [Voir le projet](./10-étude-marche-internationale-python/)
+➡️ [Voir le projet](10-etude-marche-international-python/)
 
 ---
 
