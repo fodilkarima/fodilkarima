@@ -97,12 +97,12 @@ Vous y trouverez une sélection de projets réalisés dans le cadre de ma format
 
 | Projet | Objectif | Technologies |
 |---|---|---|
-| [Performance e-commerce](./01-performance-ecommerce/) | Analyser trafic, CA et conversion | KPI, Dataviz |
+| [Performance e-commerce](./01-performance-ecommerce/) | Comprendre CA, trafic, conversion et panier moyen | KPI, Dataviz |
 | [BDD Assurance habitation](./02-bdd-assurance-habitation/) | Concevoir et interroger une BDD | SQL |
 | [Alimentation mondiale — FAO](./03-alimentation-mondiale-fao/) | Étudier disponibilité alimentaire et sous-nutrition | Python, Pandas |
 | [DATA Immo](04-data-immo/) | Structurer et analyser des données immobilières | SQL, RGPD |
-| [Optimisation boutique](./05-optimisation-boutique-python/) | Analyser stocks, ventes et marges | Python |
-| [Accès à l'eau potable](09-acces-eau-potable-power-bi/) | Prioriser les pays nécessitant une intervention | Power BI |
+| [Optimisation des données d'une boutique](./05-optimisation-boutique-python/) | Fiabiliser les données et améliorer le pilotage commercial | Python |
+| [Accès à l'eau potable dans le monde](09-acces-eau-potable-power-bi/) | Identifier les pays prioritaires pour une intervention | Power BI |
 
 ### Méthodes mises en œuvre
 
