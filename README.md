@@ -100,6 +100,6 @@ La veille fait partie intégrante de ce portfolio. La section [`veille/`](veille
 # Contact
 
 - **LinkedIn :** à compléter
-- **GitHub :** à compléter
-- **E-mail : fodil.karima@hotmail.com
+- **GitHub :** https://fodilkarima.github.io/fodilkarima/
+- **E-mail :** fodil.karima@hotmail.com
 
