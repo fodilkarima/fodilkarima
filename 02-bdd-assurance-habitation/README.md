@@ -75,4 +75,4 @@ Prochaines améliorations possibles :
 
 ## 📁Livrables
 
-- 📊 [Consulter la présentation du projet](./02_presentation_bdd_assurance_habitation)
+- 📊 [Consulter la présentation du projet](./02_presentation_bdd_assurance_habitation.pdf)
