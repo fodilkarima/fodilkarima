@@ -44,3 +44,8 @@ Approfondir la saisonnalité, suivre les indicateurs sur plusieurs mois et autom
 ## Compétences démontrées
 
 `Python` `Pandas` `Data cleaning` `Jointures` `Analyse statistique` `Corrélation` `Gestion des stocks` `Data quality`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./05_presentation_optimisation_boutique.pdf)
+- 📓 [Consulter le notebook Python](./05_optimisation_boutique.ipynb)
