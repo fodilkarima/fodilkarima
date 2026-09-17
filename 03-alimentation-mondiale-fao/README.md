@@ -66,4 +66,4 @@ Les résultats suggèrent que la disponibilité alimentaire globale ne suffit pa
 ## 📁Livrables
 
 - 📊 [Consulter la présentation du projet](./03_presentation_alimentation_mondiale_fao.pdf)
-- 📓 [Consulter le notebook Python](./03_alimentation_mondiale_fao.ipynb)
+- 📓 [Consulter le notebook Python](https://github.com/fodilkarima/fodilkarima/blob/main/03-alimentation-mondiale-fao/03_alimentation_mondiale_fao.ipynb)
