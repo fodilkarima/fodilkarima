@@ -57,3 +57,9 @@ Approfondir les causes de la baisse des effectifs, ajouter des variables socio-�
 ## Compétences démontrées
 
 `Snowflake` `dbt` `SQL` `ELT` `Data pipeline` `RGPD` `Data quality` `Analyse sociodémographique`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./07_presentation_pipeline_dbt.pdf)
+- 💻 [Consulter les modèles dbt et fichiers SQL](./models/)
+- ⚙️ [Consulter la configuration dbt](./dbt_project.yml)
