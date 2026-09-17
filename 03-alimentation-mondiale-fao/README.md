@@ -62,3 +62,8 @@ Les résultats suggèrent que la disponibilité alimentaire globale ne suffit pa
 ## Compétences démontrées
 
 `Python` `Pandas` `Matplotlib` `Data cleaning` `Merge` `GroupBy` `Analyse exploratoire`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./03_presentation_alimentation_mondiale_fao.pdf)
+- 📓 [Consulter le notebook Python](./03_alimentation_mondiale_fao.ipynb)
