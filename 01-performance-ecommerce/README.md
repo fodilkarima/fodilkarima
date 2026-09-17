@@ -59,5 +59,5 @@ L'analyse permet d'identifier que le problème principal n'est pas uniquement l'
 
 ## 📁Livrables
 
-- 📊 [Consulter la présentation du projet](/01_presentation_performance_ecommerce.pdf)
+- 📊 [Consulter la présentation du projet](/01_presentation_performance_ecommerce.pdf/)
 
