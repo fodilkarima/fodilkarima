@@ -101,3 +101,8 @@ Le projet aboutit à un outil directement réutilisable pour automatiser la dét
 ## Compétences démontrées
 
 `Python` `Machine Learning` `Classification` `Régression logistique` `Random Forest` `KNN` `K-means` `ROC-AUC` `Pipeline`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./11_presentation_detection_faux_billets.pdf)
+- 📓 [Consulter le notebook Python](./11_detection_faux_billets.ipynb)
