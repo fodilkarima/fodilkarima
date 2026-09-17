@@ -59,6 +59,5 @@ L'analyse permet d'identifier que le problème principal n'est pas uniquement l'
 
 ## 📁Livrables
 
-- 📓 [Consulter le notebook Python](./detection_faux_billets.ipynb)
-- 📊 [Consulter la présentation du projet](./presentation_faux_billets.pdf)
+- 📊 [Consulter la présentation du projet](/01_presentation_performance_ecommerce.pdf)
 
