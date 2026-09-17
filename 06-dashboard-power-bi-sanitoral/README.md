@@ -45,4 +45,4 @@ Automatiser davantage le rafraîchissement, enrichir les alertes et mesurer l’
 ## 📁Livrables
 
 - 📊 [Consulter la présentation du projet](./06_presentation_dashboard_sanitoral.pdf)
-- 📓 [Consulter le dashboard](./06_dashboard_sanitoral.pbix)
+- 📓 [Télécharger le dashboard Power BI](./06_dashboard_sanitoral.pbix)
