@@ -48,4 +48,4 @@ Approfondir la saisonnalité, suivre les indicateurs sur plusieurs mois et autom
 ## 📁Livrables
 
 - 📊 [Consulter la présentation du projet](./05_presentation_optimisation_boutique.pdf)
-- 📓 [Consulter le notebook Python](./05_optimisation_boutique.ipynb)
+- 📓 [Consulter le notebook Python](https://github.com/fodilkarima/fodilkarima/blob/main/05-optimisation-boutique-python/05_optimisation_boutique.ipynb)
