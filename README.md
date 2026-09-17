@@ -148,5 +148,6 @@ Je souhaite aujourd'hui mettre ces compétences en pratique dans un environnemen
 
 📧 **E-mail :** [fodil.karima@hotmail.com](mailto:fodil.karima@hotmail.com)  
 💻 **GitHub :** [github.com/fodilkarima](https://github.com/fodilkarima)  
+🌐 **Portfolio web :** [Voir mon portfolio](https://fodilkarima.github.io/fodilkarima/)  
 🔗 **LinkedIn :** à ajouter
 
