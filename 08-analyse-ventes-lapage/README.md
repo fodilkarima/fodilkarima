@@ -76,3 +76,8 @@ Les tests utilisés incluent :
 ## Compétences démontrées
 
 `Python` `Analyse statistique` `Chi-2` `Spearman` `Kruskal-Wallis` `Segmentation client` `Data storytelling`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./08_presentation_analyse_ventes_lapage.pdf)
+- 📓 [Consulter le notebook Python](./08_analyse_ventes_lapage.ipynb)
