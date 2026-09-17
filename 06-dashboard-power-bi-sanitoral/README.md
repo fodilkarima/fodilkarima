@@ -41,3 +41,8 @@ Automatiser davantage le rafraîchissement, enrichir les alertes et mesurer l’
 ## Compétences démontrées
 
 `Power BI` `Power Query` `DAX` `Data modelling` `Schéma en étoile` `Dashboard` `Data storytelling`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./06_presentation_dashboard_sanitoral.pdf)
+- 📓 [Consulter le dashboard](./06_dashboard_sanitoral.pbix)
