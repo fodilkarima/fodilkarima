@@ -126,17 +126,9 @@ Pour chaque projet, mon objectif est d'aller au-delà de la simple production d'
 
 ## 🔭 Veille métier et technologique
 
-Je réalise une veille régulière sur les évolutions du métier de Data Analyst et de son environnement technique.
+Je réalise une veille régulière sur les évolutions du métier de Data Analyst, les outils, les méthodes et les compétences recherchées.
 
-Mes principaux axes de veille portent sur :
-
-- **Python, Pandas et bibliothèques d’analyse** ;
-- **Power BI, Power Query et DAX** ;
-- **SQL, dbt, Snowflake et modélisation des données** ;
-- **Machine Learning, IA et Data Quality** ;
-- **évolution des compétences recherchées pour le métier de Data Analyst**.
-
-Cette veille me permet d'actualiser mes pratiques, d'identifier les évolutions du métier et d'orienter mes choix techniques.
+➡️ [Consulter ma veille métier et technologique](./VEILLE_TECHNOLOGIQUE.md)
 
 ---
 
