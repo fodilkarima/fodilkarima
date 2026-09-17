@@ -72,3 +72,7 @@ Prochaines améliorations possibles :
 ## Compétences démontrées
 
 `SQL` `Modélisation relationnelle` `JOIN` `GROUP BY` `Agrégations` `Data modelling`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./02_presentation_bdd_assurance_habitation)
