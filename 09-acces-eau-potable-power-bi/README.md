@@ -73,3 +73,8 @@ Le dashboard permet de transformer plusieurs indicateurs internationaux en un ou
 ## Compétences démontrées
 
 `Power BI` `Power Query` `Modélisation` `DAX` `Dashboard` `Analyse multicritère` `Aide à la décision`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./09_presentation_acces_eau_potable.pdf)
+- 📓 [Télécharger le dashboard](./09_acces_eau_potable.pbix)
