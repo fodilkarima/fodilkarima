@@ -77,4 +77,4 @@ Le dashboard permet de transformer plusieurs indicateurs internationaux en un ou
 ## 📁Livrables
 
 - 📊 [Consulter la présentation du projet](./09_presentation_acces_eau_potable.pdf)
-- 📓 [Télécharger le dashboard](./09_acces_eau_potable.pbix)
+- 📓 [Télécharger le dashboard Power BI](./09_acces_eau_potable.pbix)
