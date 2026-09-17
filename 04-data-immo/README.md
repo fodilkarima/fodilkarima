@@ -67,3 +67,7 @@ Le support partagé montre principalement la préparation des données, la struc
 ## Compétences démontrées
 
 `SQL` `Data cleaning` `Modélisation` `Qualité des données` `RGPD` `Analyse immobilière`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./04_presentation_data_immo.pdf)
