@@ -80,4 +80,4 @@ Les tests utilisés incluent :
 ## 📁Livrables
 
 - 📊 [Consulter la présentation du projet](./08_presentation_analyse_ventes_lapage.pdf)
-- 📓 [Consulter le notebook Python](./08_analyse_ventes_lapage.ipynb)
+- 📓 [Consulter le notebook Python](https://github.com/fodilkarima/fodilkarima/blob/main/08-analyse-ventes-lapage/08_analyse_ventes_lapage.ipynb)
