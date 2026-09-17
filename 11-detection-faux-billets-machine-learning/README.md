@@ -105,4 +105,4 @@ Le projet aboutit à un outil directement réutilisable pour automatiser la dét
 ## 📁Livrables
 
 - 📊 [Consulter la présentation du projet](./11_presentation_detection_faux_billets.pdf)
-- 📓 [Consulter le notebook Python](./11_detection_faux_billets.ipynb)
+- 📓 [Consulter le notebook Python](https://github.com/fodilkarima/fodilkarima/blob/main/11-detection-faux-billets-machine-learning/11_detection_faux_billets.ipynb)
