@@ -109,3 +109,9 @@ La combinaison de l'ACP et de deux méthodes de clustering permet de transformer
 ## Compétences démontrées
 
 `Python` `ACP` `CAH` `K-means` `Standardisation` `Clustering` `Analyse de marché` `Segmentation`
+
+## 📁Livrables
+
+- 📊 [Consulter la présentation du projet](./10_presentation_etude_marche_internationale.pdf)
+- 📓 [Consulter le notebook K-means](./10_etude_marche_international_K_means.ipynb)
+- 📓 [Consulter le notebook CAH](./10_etude_marche_internationale_CAH.ipynb)
