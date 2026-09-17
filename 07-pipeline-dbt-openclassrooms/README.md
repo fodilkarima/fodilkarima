@@ -61,5 +61,5 @@ Approfondir les causes de la baisse des effectifs, ajouter des variables socio-�
 ## 📁Livrables
 
 - 📊 [Consulter la présentation du projet](./07_presentation_pipeline_dbt.pdf)
-- 🧹 [Consulter les modèles Staging](./models/staging/)
+- 🧹 [Consulter les modèles Staging](https://github.com/fodilkarima/fodilkarima/tree/main/07-pipeline-dbt-openclassrooms/models/staging)
 - ⚙️ [Consulter la configuration dbt](./dbt_project.yml)
