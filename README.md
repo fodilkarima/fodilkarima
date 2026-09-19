@@ -30,22 +30,22 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 
 ---
 
-## 🎯 Ce que mon portfolio démontre
+##  Ce que mon portfolio démontre
 
 À travers ces réalisations, je démontre ma capacité à intervenir sur les principales étapes d'un projet Data :
 
-- 🔎 **Comprendre un besoin métier** et le traduire en problématique analytique et en KPI pertinents.
-- 🧹 **Préparer et fiabiliser les données** en traitant valeurs manquantes, doublons, anomalies et incohérences métier.
-- 🗄️ **Structurer et transformer les données** avec SQL, Python, Power Query, Snowflake et dbt.
-- 📊 **Analyser et visualiser les données** afin d'identifier tendances, comportements et points de vigilance.
-- 🤖 **Utiliser les statistiques et le Machine Learning** pour tester, segmenter, classifier et comparer différents modèles.
-- 💡 **Transformer les résultats en aide à la décision** grâce à des recommandations métier claires et argumentées.
+- **Comprendre un besoin métier** et le traduire en problématique analytique et en KPI pertinents.
+- **Préparer et fiabiliser les données** en traitant valeurs manquantes, doublons, anomalies et incohérences métier.
+- **Structurer et transformer les données** avec SQL, Python, Power Query, Snowflake et dbt.
+- **Analyser et visualiser les données** afin d'identifier tendances, comportements et points de vigilance.
+- **Utiliser les statistiques et le Machine Learning** pour tester, segmenter, classifier et comparer différents modèles.
+- **Transformer les résultats en aide à la décision** grâce à des recommandations métier claires et argumentées.
 
 ---
 
 ## ⭐ 5 Projets phares
 
-### 🤖 Détection de faux billets — Machine Learning
+###  Détection de faux billets — Machine Learning
 
 **Objectif :** automatiser la détection des billets contrefaits à partir de leurs caractéristiques dimensionnelles.
 
@@ -116,7 +116,7 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 
 ---
 
-## 🔎 Ma démarche
+##  Ma démarche
 
 **Besoin métier → Données → Préparation → Analyse / Modélisation → Visualisation → Recommandations**
 
@@ -124,7 +124,7 @@ Pour chaque projet, mon objectif est d'aller au-delà de la simple production d'
 
 ---
 
-## 🔭 Veille métier et technologique
+##  Veille métier et technologique
 
 Je réalise une veille régulière sur les évolutions du métier de Data Analyst, les outils, les méthodes et les compétences recherchées.
 
