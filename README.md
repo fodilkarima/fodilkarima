@@ -15,7 +15,7 @@ Je suis Data Analyst, spécialisée dans la transformation de données brutes en
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 | Domaine | Outils & méthodes |
 |---|---|
