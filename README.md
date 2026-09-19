@@ -136,10 +136,10 @@ Je réalise une veille régulière sur les évolutions du métier de Data Analys
 
 Je souhaite aujourd'hui mettre ces compétences en pratique dans un environnement professionnel en tant que **Data Analyst**, en contribuant à des problématiques de pilotage, de performance et d'aide à la décision.
 
-## 📬 Contact
+##  Contact
 
 📧 **E-mail :** [fodil.karima@hotmail.com](mailto:fodil.karima@hotmail.com)  
-💻 **GitHub :** [github.com/fodilkarima](https://github.com/fodilkarima)  
 🌐 **Portfolio web :** [Voir mon portfolio](https://fodilkarima.github.io/fodilkarima/)  
-🔗 **LinkedIn :** à ajouter
+   **GitHub :** [github.com/fodilkarima](https://github.com/fodilkarima)  
+   **LinkedIn :**
 
